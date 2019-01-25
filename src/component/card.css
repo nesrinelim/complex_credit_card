@@ -1,0 +1,55 @@
+
+.countainer {
+    /* text-align: center; */
+    background-image: url(../component/img/background.jpg);
+    width: 94%;
+    height: 100%;
+    color: white;
+    border-radius: 5%;
+    background-repeat: no-repeat;
+  }
+  .title{
+    text-align: center;
+  }
+  .global{
+    display:flex;
+    justify-content: space-around;
+    font-size: 23px;
+    
+  }
+  .box{
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 12%;
+  }
+  .info-card{
+    display: flex; 
+    justify-content: space-around;
+    width: 29%;
+  }
+  .num{
+    font-size: 70%;
+    margin-top: -14%;
+  }
+  .size{
+    font-size: 30%;
+  }
+  .back{
+    font-size: 130%;
+    color: #b8bc7a;
+    background:  #307e72;
+  }
+  .App-logo {
+    margin-left: 7%;
+    border-radius: 15%;
+    margin-bottom: 5%;
+  }
+  /* .icoo{
+    display: flex;
+  } */
+  .bloc{
+    margin-top: -16%;
+  }
+  .App-logo2{
+  margin-top: 4%;
+  }
